@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "mongodb.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Midokhalil1/mongodb-first/issues"
   },
-  "homepage": "https://github.com/Midokhalil1/mongodb-first#readme"
+  "homepage": "https://github.com/Midokhalil1/mongodb-first#readme",
+  "dependencies": {
+    "mongodb": "^4.10.0"
+  }
 }
