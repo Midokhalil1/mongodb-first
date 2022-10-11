@@ -1,0 +1,19 @@
+{
+  "name": "mongodb-first",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mongodb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Midokhalil1/mongodb-first.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Midokhalil1/mongodb-first/issues"
+  },
+  "homepage": "https://github.com/Midokhalil1/mongodb-first#readme"
+}
