@@ -15,4 +15,4 @@ for (let i=0; i < movieArray.length; i++){
 // let firstMovie = movieArray[0]
 // console.log(firstMovie.title)
 
-console.log(`there are ${firstMovie.length} movies`)
+console.log(`there are ${movieArray.length} movies`)
